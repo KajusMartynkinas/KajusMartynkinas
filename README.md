@@ -1,3 +1,5 @@
+![Cover](Cover.png)
+
 <h1 align="center">Hello 👋, I'm Kajus Martynkinas</h1>
 <h3 align="center">Data Analyst</h3>
 
